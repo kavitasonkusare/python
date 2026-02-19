@@ -1,0 +1,4 @@
+#Practical Example: 8) Write a Python program to print a string from the last character.
+text="Kavitasonkusare"
+
+print(text[-1])
